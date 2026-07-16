@@ -1,29 +1,30 @@
-
 # Bash Scripting in Kali Linux
 
 ## Overview
 
-This section documents my hands-on learning and practice of Bash scripting as part of Module 02 of the Tutedude Cybersecurity course.
+This folder contains my hands-on Bash scripting practice completed as part of Module 02 of the Tutedude Cybersecurity course. The PDFs document my practical implementation through terminal screenshots, script files, and brief explanations of the concepts covered.
 
 ## Topics Covered
 
-- Creating and editing Bash scripts using Nano
+- Creating and executing Bash scripts
 - Understanding the `#!/bin/bash` shebang
-- Displaying output with the `echo` command
-- Working with variables in Bash
+- Displaying output using the `echo` command
+- Working with variables
 - Accepting user input using the `read` command
 - Making scripts executable using `chmod +x`
 - Executing scripts using `./filename.sh`
-- Understanding the purpose of Bash scripting in Linux automation
-- Viewing network interface information using the `ifconfig` command
+- Using the `ifconfig` command
+- Working with arrays
+- Implementing conditional statements using `if`, `elif`, and `else`
 
 ## Learning Outcomes
 
-- Learned the fundamentals of Bash scripting.
-- Understood how shell scripts automate Linux terminal commands.
-- Practiced creating, executing, and debugging Bash scripts.
-- Explored variables, user input, and command execution in a Kali Linux environment.
+- Understood the fundamentals of Bash scripting.
+- Practiced creating and executing shell scripts in Kali Linux.
+- Explored variables, user input, arrays, and conditional statements.
+- Gained practical experience with Linux command-line scripting.
 
 ## Files Included
 
-- `Bash_Scripting.pdf` – Documentation containing screenshots, commands, explanations, and key takeaways from my practice.
+- **Bash_Scripting_Kali_Linux.pdf** – Practical implementation of Bash scripting fundamentals with screenshots and brief descriptions.
+- **Bash_Scripting_Arrays_Conditionals.pdf** – Practical implementation of arrays and conditional statements with screenshots and brief descriptions.
