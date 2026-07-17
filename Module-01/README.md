@@ -1,4 +1,4 @@
-odule 01 – Introduction to Cybersecurity
+Module 01 – Introduction to Cybersecurity
 Overview
 
 This folder contains my revision notes and practical learning documentation for Module 01 of the Tutedude Cybersecurity course. The notes are prepared in simple language for quick revision and are based on the concepts covered in the course.
