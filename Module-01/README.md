@@ -32,14 +32,16 @@ Nmap and Metasploit overview
 Commands used during the practical demonstration
 Attack workflow and key takeaways
 
-Learning Outcomes
+Learning Outcomes :
+
 Understood the fundamentals of cybersecurity and common cyber threats.
 Learned to install and configure Kali Linux using Oracle VirtualBox.
 Explored the WannaCry ransomware attack in a controlled lab environment.
 Understood important cybersecurity concepts, networking terms, and Linux tools.
 Prepared beginner-friendly revision notes with command explanations and practical workflows.
 
-Files Included
+Files Included :
+
 Cybersecurity_Introduction_Revision_Notes.pdf
 VirtualBox_Kali_Linux_Setup_Notes.pdf
 WannaCry_Ransomware_Theory_and_Practical_Revision_Notes.pdf
